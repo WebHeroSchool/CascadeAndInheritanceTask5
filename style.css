@@ -1,3 +1,4 @@
+
 .header__title {
   color: cornsilk;
   text-transform: uppercase;
@@ -20,7 +21,7 @@ a {
 
 * {
   text-align: center;
-  font-family: fantasy;
+  font-family: 'Open Sans', sans-serif;
   font-weight: lighter;
   margin: 0;
   padding: 0;
